@@ -23,7 +23,9 @@ def self.artists
   end
   def self.genre_count
     genre_count = {}
-    @@genres.each{|genre| if genre_count[genre]
+    @@genres.each{|genre| 
+    if genre_count[genre]
+      
     
 end
 end
