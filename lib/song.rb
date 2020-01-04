@@ -21,5 +21,3 @@ end
 def self.artists
   @@artists.new
 end
-def self.genre_count 
-  
