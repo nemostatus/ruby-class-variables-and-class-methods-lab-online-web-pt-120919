@@ -21,4 +21,5 @@ end
 def self.artists
   @@artists.uniq!
   end
+  def self.genre_count
 end
