@@ -22,6 +22,6 @@ def self.artists
   @@artists.uniq!
   end
   def self.genre_count
-    @@genres.map{|x|{}<<(x :"#{@@count}")
+    @@genres.map{|x|{}<<(x : @@count)
     
 end
