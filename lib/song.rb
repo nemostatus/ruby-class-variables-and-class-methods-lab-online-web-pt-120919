@@ -25,3 +25,4 @@ def self.artists
     @@genres.map{|x|{}<<[x][@@count]}
     
 end
+end
