@@ -21,3 +21,4 @@ end
 def self.artists
   @@artists.new
 end
+end
