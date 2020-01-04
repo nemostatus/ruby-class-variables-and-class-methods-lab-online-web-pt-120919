@@ -19,6 +19,6 @@ def self.genres
   @@genres.new
 end
 def self.artists
-  @@artists.new
+  @@artists
 end
 end
